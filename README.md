@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Karanwal
+# 👋 Hi, I'm Nikhil
 
 💻 Java Developer  
 🎓 BCA Graduate | MCA Aspirant  
