@@ -36,6 +36,12 @@
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=nikhilkaranwal05&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nikhilkaranwal05&layout=compact&theme=github_dark)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode"/>
+
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
