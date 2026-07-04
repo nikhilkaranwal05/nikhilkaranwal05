@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikhil Karanwal</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Developer;BCA+Graduate;Spring+Boot+Learner;AI+%26+Automation+Enthusiast;Open+to+Internships" alt="Typing SVG" />
 </p>
 # 👋 Hi, I'm Nikhil
 
 💻 Java Developer  
-🎓 BCA Graduate | MCA Aspirant  
+🎓 Graduate 
 🌱 Learning Full Stack Development & AI
 
 ---
