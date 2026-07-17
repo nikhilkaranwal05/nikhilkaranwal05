@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-- Java ☕
+- Java
 - HTML
 - CSS
 - JavaScript
